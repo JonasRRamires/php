@@ -1,4 +1,0 @@
-<?php
-echo"ZZzzzZz2";
-
-?>
